@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![Lan Qing's GitHub stats](https://github-readme-stats.vercel.app/api?username=lan-qing&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aisigsjtu&repo=SEBR)](https://github.com/AISIGSJTU/SEBR)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aisigsjtu&repo=SEBR)](https://github.com/AISIGSJTU/SEBR)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aisigsjtu&repo=AS)](https://github.com/AISIGSJTU/AS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aisigsjtu&repo=AS)](https://github.com/AISIGSJTU/AS) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lan-qing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
